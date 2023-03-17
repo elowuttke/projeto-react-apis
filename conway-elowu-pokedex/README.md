@@ -30,7 +30,7 @@ Veja nos detalhes as principais Base stats e Moves de cada Pokémon.
 
 ## Demonstração
 
-[Link para abrir o projeto no seu navegador]()
+[Link para abrir o projeto no seu navegador]( https://conway-elowuttke-pokedex.surge.sh)
 
 ## Como rodar este projeto?
 
